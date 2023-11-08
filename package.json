@@ -1,0 +1,12 @@
+{
+  "name": "capturing-rainwater",
+  "version": "1.0.0",
+  "description": "Implement a function that solves the capturing rainwater problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Munene Ndereba",
+  "license": "MIT"
+}
